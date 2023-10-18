@@ -1,5 +1,5 @@
 apiVersion: workload.nephio.org/v1alpha1
-kind: AMFDeployment
+kind: NFDeployment
 metadata:
   name: amf-example
   namespace: amf-example
